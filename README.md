@@ -22,7 +22,7 @@ The Fashion MNIST dataset is included in the TensorFlow library. It consists of 
 - Matplotlib
 
 ## Files
-- `fashion_code.py`: Jupyter Notebook containing the code for data loading, model training, and evaluation.
+- `fashion_code.py`: contains the code for data loading, model training, and evaluation.
 - `README.md`: Markdown file providing information about the project.
 
 ## Instructions

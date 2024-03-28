@@ -34,4 +34,4 @@ The Fashion MNIST dataset is included in the TensorFlow library. It consists of 
 The trained model achieves an accuracy of approximately 80% on the test dataset.
 
 ## Acknowledgement
-Nvidia Deep Learning Institute
+Nvidia Deep Learning Institute &YouTube
